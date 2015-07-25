@@ -7,6 +7,7 @@ This repository contains my notes from the tutorials and talks I attended at OSC
 - [Decoupling the Frontend through Modular CSS](decoupling_the_frontend_through_modular_css.md)
 - [Everything I wish I knew when I started using GitHub](everything_i_wish_i_knew_when_i_started_using_github.md)
 - [Humane Interviewing](humane_interviewing.md)
+- [Listen to the Difference: Screenreaders and Web Apps](listen_to_the_difference_screenreaders.md)
 - [Modern Concurrency in Python](modern_concurrency_in_python.md)
 - [Open Source is Ugly](open_source_is_ugly.md)
 - [Reactive Frontend](reactive_frontend.md)
